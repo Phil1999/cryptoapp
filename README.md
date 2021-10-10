@@ -16,7 +16,7 @@ My motivation for this app was to create a dynamic website using React where I c
 - react-chart-js-2
 - Rapidapi
 
-![Main Page of website](mainpage.png)
+![Main Page of website](mainpage.PNG)
 <br/>
 ## **Additional Features**
 Ability to sort news by specific cryptocurrency in the "news" section as well as selecting a specific cryptocurrency to get more in-depth information about it.
