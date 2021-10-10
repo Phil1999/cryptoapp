@@ -1,3 +1,37 @@
+# Crypto App
+
+## **Project Description**
+Cryptocurrency website where you can view up-to-date news about various cryptocurrencies and keep track of daily changes in prices and movement of prices over select time periods.
+<br/>
+
+## **Motivation**
+
+My motivation for this app was to create a dynamic website using React where I could simply open up the site and be able to keep track of the cryptocurrencies I was interested in. I also wanted to learn more about **react-redux** and **rapidapi.**
+<br/>
+## **Technologies Used:**
+- Ant Design
+- react-redux
+- Axios
+- Chart.js
+- react-chart-js-2
+- Rapidapi
+
+![Main Page of website](/src/assets/images/readme/mainpage.png)
+<br/>
+## **Additional Features**
+Ability to sort news by specific cryptocurrency in the "news" section as well as selecting a specific cryptocurrency to get more in-depth information about it.
+
+Table of various exchanges showing a brief description, 24h trade volume, markets, and market share.
+<br/>
+## **What I learned**
+I learned an incredible amount about react-redux in this project and specifically the **reduxjs toolkit**. This toolkit allowed me to easily connect to my endpoints, create APIs with ease, and fetch data from them.
+
+I also used **Ant Design** for the first time in this project which is a very comprehensive framework that had most, if not everything that I needed for the visual side of this project. I chose to use Ant Design because I wanted to work with a framework I hadn't worked with before to see if it could offer anything better than the frameworks I was already familiar with.
+
+**RapidApi.** Just an incredible API that allows you to quickly and easily connect to thousands of APIs. This was also my first time working with RapidApi and i was pleasantly surprised. Usually it's a bit of a headache to figure out how to retrieve information from various individual APIs, but RapidApi allows you access to APIs that has already done the heavy lifting for you.
+<br/>
+<br/>
+<br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +73,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
