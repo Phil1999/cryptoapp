@@ -11,7 +11,6 @@ My motivation for this app was to create a dynamic website using React where I c
 ## **Technologies Used:**
 - Ant Design
 - react-redux
-- Axios
 - Chart.js
 - react-chart-js-2
 - Rapidapi
